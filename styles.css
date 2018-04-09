@@ -1,0 +1,38 @@
+body{
+    margin:0;
+    padding:0;
+  }
+  
+  .menu{
+    border:1px solid grey;
+    background-color:#eee;
+    position:relative;
+  }
+  
+  .menu-btn{
+    font-family:"Arial";
+    padding:1em;
+    display:block;
+    width:5em;
+    border:1px solid grey;
+  }
+  .hamburger{
+    font-family:"Arial";
+    padding:1em;
+    display:block;
+    border:1px solid grey;
+   width:1em;
+    height:1em;
+  }
+  .content{
+    width:100vw;
+    height: 100vh;
+    border:3px solid blue;
+    
+    
+  }
+  
+  .wires{
+    position:absolute;
+    border:2px solid green;
+  }
